@@ -5,8 +5,8 @@
     "test": "node index.js"
   },
   "files": [
-    "./index.js",
-    "./prettier.config.js"
+    "index.js",
+    "prettier.config.js"
   ],
   "dependencies": {
     "@marolint/eslint-config-core": "*",
