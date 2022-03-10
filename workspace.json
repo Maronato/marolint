@@ -1,4 +1,8 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "eslint-config-core": "packages/eslint-config-core",
+    "eslint-config-nextjs": "packages/eslint-config-nextjs",
+    "eslint-config-react": "packages/eslint-config-react"
+  }
 }

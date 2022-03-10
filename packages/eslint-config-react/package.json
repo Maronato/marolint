@@ -1,0 +1,16 @@
+{
+  "name": "@marolint/eslint-config-react",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "files": [
+    "./index.js",
+    "./prettier.config.js"
+  ],
+  "dependencies": {
+    "@marolint/eslint-config-core": "*",
+    "eslint-plugin-react": "^7.29.3",
+    "eslint-plugin-react-hooks": "^4.3.0"
+  }
+}

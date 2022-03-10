@@ -1,0 +1,15 @@
+{
+  "name": "@marolint/eslint-config-nextjs",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "files": [
+    "./index.js",
+    "./prettier.config.js"
+  ],
+  "dependencies": {
+    "@marolint/eslint-config-react": "*",
+    "@next/eslint-plugin-next": "^12.1.0"
+  }
+}
