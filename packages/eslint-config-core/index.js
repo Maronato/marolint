@@ -21,6 +21,8 @@ module.exports = {
   },
   plugins: ["@typescript-eslint", "jsx-a11y"],
   rules: {
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": ["error", { argsIgnorePattern: "^_" }],
     "no-empty-function": "off",
     "@typescript-eslint/no-empty-function": ["off"],
     "@typescript-eslint/ban-ts-comment": 0,
