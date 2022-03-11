@@ -1,6 +1,6 @@
 {
   "name": "@marolint/eslint-config-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "test": "node index.js"
   },
