@@ -1,6 +1,6 @@
 {
   "name": "@marolint/eslint-config-nextjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "test": "node index.js"
   },
