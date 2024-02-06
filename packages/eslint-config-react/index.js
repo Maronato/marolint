@@ -1,9 +1,9 @@
 module.exports = {
   extends: [
+    "@marolint/eslint-config-core",
     "plugin:react/recommended",
     "plugin:react/jsx-runtime",
     "plugin:react-hooks/recommended",
-    "@marolint/eslint-config-core",
   ],
   plugins: ["react"],
   rules: {
